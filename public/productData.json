@@ -1,0 +1,49 @@
+{
+    "id": 1,
+    "title": "Asgaard sofa",
+    "price": 2500000,
+    "rating": 4.5,
+    "reviews": 5,
+    "colors": ["#000000", "#F5C77F", "#5450D3"],
+    "sizes": ["S", "M", "L"],
+    "description": "Embracing the warm, organic look of oak, the Asgaard sofa provides ultimate comfort.",
+    "categories": ["Sofa", "Living Room"],
+    "tags": ["Sofa", "Chair", "Living Room"],
+    "images": [
+      "gallery1.png",
+      "gallery2.png",
+      "gallery3.png",
+      "gallery4.png"
+    ],
+    "relatedProducts": [
+      {
+        "id": 2,
+        "title": "Syltherine",
+        "price": 2800000,
+        "image": "related1.png",
+        "discount": true
+      },
+      {
+        "id": 3,
+        "title": "Leviosa",
+        "price": 2500000,
+        "image": "related2.png",
+        "discount": true
+      },
+      {
+        "id": 4,
+        "title": "Lolito",
+        "price": 7000000,
+        "image": "related3.png",
+        "discount": false
+      },
+      {
+        "id": 5,
+        "title": "Respira",
+        "price": 5000000,
+        "image": "related4.png",
+        "discount": false
+      }
+    ]
+  }
+  

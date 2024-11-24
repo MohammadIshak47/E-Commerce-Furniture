@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "name": "Leviosa",
+    "description": "Stylish cafe chair",
+    "price": "Rp 2.500.000",
+    "image": "/src/assets/images/product1.png"
+  },
+  {
+    "id": 2,
+    "name": "Nimbus",
+    "description": "Ergonomic office chair",
+    "price": "Rp 3.000.000",
+    "image": "/src/assets/images/product2.png"
+  },
+  {
+    "id": 3,
+    "name": "Eterna",
+    "description": "Luxury recliner sofa",
+    "price": "Rp 7.000.000",
+    "image": "/src/assets/images/product3.png"
+  },
+  {
+    "id": 4,
+    "name": "Viento",
+    "description": "Modern dining chair",
+    "price": "Rp 1.800.000",
+    "image": "/src/assets/images/product4.png"
+  },
+  {
+    "id": 5,
+    "name": "Astra",
+    "description": "Compact folding chair",
+    "price": "Rp 1.200.000",
+    "image": "/src/assets/images/product5.png"
+  },
+  {
+    "id": 6,
+    "name": "Aurora",
+    "description": "Elegant lounge chair",
+    "price": "Rp 4.500.000",
+    "image": "/src/assets/images/product6.png"
+  },
+  {
+    "id": 7,
+    "name": "Cielo",
+    "description": "Outdoor garden chair",
+    "price": "Rp 2.000.000",
+    "image": "/src/assets/images/product7.png"
+  },
+  {
+    "id": 8,
+    "name": "Luna",
+    "description": "Comfortable rocking chair",
+    "price": "Rp 3.200.000",
+    "image": "/src/assets/images/product8.png"
+  }
+]
+
