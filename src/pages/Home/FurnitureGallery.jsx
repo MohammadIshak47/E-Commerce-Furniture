@@ -20,51 +20,54 @@ const FurnitureGallery = () => {
         </h2>
 
         {/* Gallery */}
-        <div className="mt-8 grid grid-cols-12 gap-2">
+        <div className="mt-8 grid grid-cols-12 lg:grid-cols-4 md:grid-cols-4 gap-2">
+          
+
+         
           {/* First Row */}
           <img
             src={gallery1}
             alt="Furniture 1"
-            className="col-span-3 row-span-2  rounded-lg shadow-md w-[120px] h-[382px] object-cover"
+            className="  rounded-lg shadow-md w-[120px] h-[382px] object-cover"
           />
           <img
             src={gallery2}
             alt="Furniture 2"
-            className="col-span-6 rounded-lg shadow-md w-full h-[400px] object-cover"
+            className="col-span-2 rounded-lg shadow-md w-full h-[400px] object-cover"
           />
           <img
             src={gallery3}
             alt="Furniture 3"
-            className="col-span-3 rounded-lg shadow-md w-full h-[300px] object-cover"
+            className="col-span-2 rounded-lg shadow-md w-full h-[300px] object-cover"
           />
 
           {/* Second Row */}
           <img
             src={gallery4}
             alt="Furniture 4"
-            className="col-span-4 rounded-lg shadow-md w-full h-[300px] object-cover"
+            className="col-span-2 row-span-1 rounded-lg shadow-md w-full h-[300px] object-cover"
           />
           <img
             src={gallery5}
             alt="Furniture 5"
-            className="col-span-4 rounded-lg shadow-md w-full h-full object-cover"
+            className="col-span-2 rounded-lg shadow-md w-full h-full object-cover"
           />
           <img
             src={gallery6}
             alt="Furniture 6"
-            className="col-span-4 rounded-lg shadow-md w-full h-full object-cover"
+            className="rounded-lg shadow-md w-full h-full object-cover"
           />
 
           {/* Third Row */}
           <img
             src={gallery7}
             alt="Furniture 7"
-            className="col-span-6 rounded-lg shadow-md w-full h-full object-cover"
+            className="col-span-2   rounded-lg shadow-md w-full h-full object-cover"
           />
           <img
             src={gallery8}
             alt="Furniture 8"
-            className="col-span-6 rounded-lg shadow-md w-full h-full object-cover"
+            className=" rounded-lg shadow-md w-full h-full object-cover"
           />
         </div>
       </div>
